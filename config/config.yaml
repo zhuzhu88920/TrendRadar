@@ -354,7 +354,7 @@ ai:
   
   model: "z-ai/glm4.7"
 
-  api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: ""                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://integrate.api.nvidia.com/v1"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
